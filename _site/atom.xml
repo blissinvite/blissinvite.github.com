@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BlissInvite</title>
+ <link href="http://username.github.com/" rel="self"/>
+ <link href="http://username.github.com"/>
+ <updated>2013-03-14T22:36:52-04:00</updated>
+ <id>http://username.github.com</id>
+ <author>
+   <name>Name Lastname</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ 
+</feed>

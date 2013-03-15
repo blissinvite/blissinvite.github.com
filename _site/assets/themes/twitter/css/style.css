@@ -1,0 +1,399 @@
+body {
+  background: url(../images/blissinvite-background-04.jpg) rgb(247, 247, 247) no-repeat 50% -275px;
+  padding-bottom: 40px;
+}
+.grey {
+  color: #acacac;
+}
+#how-does-it-work {
+  padding: 5px 0;
+  color: #fff;
+}
+.well {
+  border: 0px;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 1);
+  padding: 20px;
+  width: 900px;
+  margin: 0;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(34,25,25,0.4);
+  -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
+  -webkit-box-shadow: 0 1px 3px rgba(34,25,25,0.4);
+  -moz-border-radius: 3px;
+}
+.btn {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+/* Header
+-----------------------------------------------------------*/
+header { margin: 40px 0; }
+header .span12 { width: 96%; }
+header .navbar .divider-vertical { height: 29px; }
+header .navbar-inner {
+    background: #646464;
+    background: rgba(0, 0, 0, 0);
+}
+header #uiTopNav { }
+header #uiTopNav li a { padding: 5px 5px 5px 10px; color: #fff; }
+header #uiTopNav li a:hover { color: #fff; }
+header #uiTopNav .navbar-inner {
+    padding: 4px 10px;
+    min-height: 29px;
+    -webkit-border-radius: 0 0 4px 4px;
+    -moz-border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;  
+}
+header #uiTopNav .navbar { float: right; margin-right: 10px; }
+header #uiTopNav .navbar .divider-vertical { height: 25px; }
+
+header #uiMainNav .brand {
+    background: url(http://secure.blissinvite.com/_static/img/logo.png) no-repeat;
+    height: 50px;
+    width: 250px;
+    text-indent: -1000px;
+    display: block;
+    margin: 30px 0 9px;
+}
+header #uiMainNav .navbar-inner {
+    background: none; 
+    background-image: none; 
+    box-shadow: none; 
+}
+header #uiMainNav { margin: 0; }
+header #uiMainNav ul { float: right; }
+header #uiMainNav li { float: left; width: 120px; list-style: none; }
+header #uiMainNav li a { color: #fff; text-decoration: none; }
+header #uiMainNav li a .icon {
+    background: url(http://secure.blissinvite.com/_static/img/sprite-menu.png) no-repeat; 
+    width: 80px;
+    height: 75px;
+    display: block;
+    margin: 0 auto;
+}
+header #uiMainNav li a .text { display: block; text-align: center; margin: 5px 0 0; }
+header #uiMainNav li a#home .icon { background-position: 0px -5px; }
+header #uiMainNav li a#guests .icon { background-position: -80px -5px; }
+header #uiMainNav li a#cards .icon { background-position: -160px -5px; }
+
+header #uiMainNav li a:hover#home .icon,
+#uiWelcome header #uiMainNav li a#home .icon { background-position: 0px -85px; }
+header #uiMainNav li a:hover#guests .icon,
+#uiGuests header #uiMainNav li a#guests .icon { background-position: -80px -85px; }
+header #uiMainNav li a:hover#cards .icon,
+#uiCards header #uiMainNav li a#cards .icon { background-position: -160px -85px; }
+header #uiMainNav li a:hover .text,
+header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
+
+.brand { overflow}
+
+/* Footer
+-----------------------------------------------------------*/
+#footer {
+    /*position: relative;
+    margin-top: -60px;*/
+    margin-top:15px;
+    padding: 10px 10px 0 10px;
+    color: #c9c9c9;
+    font-size: 0.9em;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;  
+}
+#footer a { color: #c9c9c9; }
+#footer a:hover { color: #fff; text-decoration: none; }
+#footer ul { margin: 0; }
+#footer ul li { display: inline; list-style: none; padding-right: 10px; }
+
+/* Utilities
+-----------------------------------------------------------*/
+.hide { display: none !important; }
+.show { display: block !important; }
+.align-right { text-align: right !important; }
+.align-center { text-align: center !important; }
+.pad-top { padding-top: 10px !important; }
+.pad-bottom { padding-bottom: 10px !important; }
+.reset-margin { margin: 0 !important; }
+.reset-padding { padding: 0 !important; }
+
+/* NAVBAR
+-----------------------------------------------------------*/
+
+.navbar-inverse .nav > li > a {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.navbar-inverse .nav .active > a,
+.navbar-inverse .nav .active > a:hover,
+.navbar-inverse .nav .active > a:focus {
+  background-color: #047575;
+}
+
+.navbar-inverse .nav > li > a:hover {
+  color: #047575 !important;
+}
+
+
+/* Remove border and change up box shadow for more contrast */
+.navbar .navbar-inner {
+  border: 0;
+  -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+     -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+          box-shadow: 0 2px 10px rgba(0,0,0,.25);
+}
+
+.navbar-inverse .navbar-inner {
+  background-color: #7ccaca;
+  background-image: -moz-linear-gradient(top, #7ccaca, #6bb4b4);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#7ccaca), to(#6bb4b4));
+  background-image: -webkit-linear-gradient(top, #7ccaca, #6bb4b4);
+  background-image: -o-linear-gradient(top, #7ccaca, #6bb4b4);
+  background-image: linear-gradient(to bottom, #7ccaca, #6bb4b4);
+  background-repeat: repeat-x;
+  border-color: #252525;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
+}
+
+.navbar-inverse .btn-navbar {
+  background-color: #047575;
+  *background-color: #047575;
+  background-image: -moz-linear-gradient(top, #047575, #025d5d);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#047575), to(#025d5d));
+  background-image: -webkit-linear-gradient(top, #047575, #025d5d);
+  background-image: -o-linear-gradient(top, #047575, #025d5d);
+  background-image: linear-gradient(to bottom, #047575, #025d5d);
+  background-repeat: repeat-x;
+  border-color: #025d5d #025d5d #000000;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff151515', endColorstr='#ff040404', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.navbar-inverse .btn-navbar:hover, 
+.navbar-inverse .btn-navbar:active, 
+.navbar-inverse .btn-navbar.active, 
+.navbar-inverse .btn-navbar.disabled, 
+.navbar-inverse .btn-navbar[disabled] {
+  color: rgb(255, 255, 255);
+  background-color: rgb(4, 4, 4);
+}
+
+/* Downsize the brand/project name a bit */
+.navbar .brand {
+  padding: 10px 20px 10px; /* Increase vertical padding to match navbar links */
+  font-size: 16px;
+  font-weight: bold;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+}
+
+/* Navbar links: increase padding for taller navbar */
+.navbar .nav > li > a {
+  padding: 8px 15px;
+  margin: 9px 0;
+}
+
+.navbar .nav > li.active > a {
+  background-color: #047575;
+  *background-color: #047575;
+  background-image: -moz-linear-gradient(top, #047575, #025d5d);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#047575), to(#025d5d));
+  background-image: -webkit-linear-gradient(top, #047575, #025d5d);
+  background-image: -o-linear-gradient(top, #047575, #025d5d);
+  background-image: linear-gradient(to bottom, #047575, #025d5d);
+  background-repeat: repeat-x;
+  border-color: #025d5d #025d5d #000000;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
+
+.nav-pills {
+  margin: 10px 0 20px;
+}
+/* Offset the responsive button for proper vertical alignment */
+.navbar .btn-navbar {
+  margin-top: 10px;
+}
+
+
+/* Custom container */
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 40px 0 15px;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 72px;
+  line-height: 1;
+}
+#intro {
+  margin: 0 0 50px;
+}
+#intro .btn {
+  font-size: 1.5em;
+  color: #fff;
+  padding: 25px 35px 26px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  font-weight: 500;
+}
+#intro h1 {
+  font-size: 4.2em;
+  line-height: 1.3em;
+  margin: 15px 0 35px;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  font-weight: 500;
+}
+/*
+#intro #get-started {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 90px 0 70px;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
+*/
+#intro a.btn p {
+  font-weight: bold;
+  margin-bottom: 0px;
+  font-size: 24px;
+  padding-bottom: 5px;
+}
+#intro a.btn span {
+  font-size: 16px;
+}
+
+#signup {
+  text-align: center;
+}
+#signup .input-xlarge {
+  font-size: 17.5px !important;
+  padding: 11px 6px !important;
+  margin-right: 7px;
+  width: 330px;
+}
+#how-this-works {
+  text-align: center;
+}
+#how-this-works h1 {
+  text-align: left;
+  margin-bottom: 60px;
+}
+#how-this-works h3 {
+  font-weight: 300;
+}
+#how-this-works img {
+  width: 150px;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .span4 {
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .span4 p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+.featurette {
+  padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
+  overflow: hidden; /* Vertically center images part 2: clear their floats. */
+}
+.featurette-image {
+  margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.detail #content .container {
+  background: #fff;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  .navbar-wrapper {
+    margin-top: 0px;
+  }
+  .featurette {
+    height: auto;
+    padding: 0;
+  }
+  .featurette-image.pull-left, 
+  .featurette-image.pull-right {
+    display: block;
+    float: none;
+    max-width: 40%;
+    margin: 0 auto 20px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  body {
+    background-position: 58% 0;
+    margin-top: 50px;
+  }
+  .navbar-wrapper {
+    margin-top: 0px;
+  }
+  #top {
+    padding: 5px 0 0;
+    text-align: center;
+  }
+  #top #logo {
+    padding: 0 0 10px 0;
+  }
+  #intro h1 {
+    margin: 20px 0 40px;
+    font-size: 2.8em;
+  }
+  .jumbotron {
+    margin: 50px 0 20px;
+  }
+  .marketing .span4 + .span4 {
+    margin-top: 40px;
+  }
+
+  .featurette {
+    height: auto;
+    padding: 0;
+  }
+  .featurette-image.pull-left, 
+  .featurette-image.pull-right {
+    display: block;
+    float: none;
+    max-width: 40%;
+    margin: 0 auto 20px;
+  }
+}
