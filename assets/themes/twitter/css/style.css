@@ -5,10 +5,6 @@ body {
 .grey {
   color: #acacac;
 }
-#how-does-it-work {
-  padding: 5px 0;
-  color: #fff;
-}
 .well {
   border: 0px;
   background-color: #fff;
@@ -32,14 +28,25 @@ body {
 
 /* Header
 -----------------------------------------------------------*/
-header { margin: 40px 0; }
+header { margin: 0 0 50px; }
 header .span12 { width: 96%; }
 header .navbar .divider-vertical { height: 29px; }
 header .navbar-inner {
     background: #646464;
     background: rgba(0, 0, 0, 0);
 }
-header #uiTopNav { }
+header #utility-menu {
+  margin: 10px auto 15px;
+}
+header #utility-menu a {
+  font-size: 11px;
+  font-weight: bold;
+  color: rgb(153, 153, 153);
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
+header #utility-menu a:hover {
+  text-decoration: underline;
+}
 header #uiTopNav li a { padding: 5px 5px 5px 10px; color: #fff; }
 header #uiTopNav li a:hover { color: #fff; }
 header #uiTopNav .navbar-inner {

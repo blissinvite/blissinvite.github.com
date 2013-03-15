@@ -36,6 +36,13 @@
 
   <body class="{{ page.layout }}">
     <header>
+			<div id="utility-menu" class="container">
+				<div class="pull-right">
+          <a href="//secure.blissinvite.com/account/register">Sign Up</a> &nbsp;
+          <a href="//secure.blissinvite.com/account/logon">Login</a>
+        </div>
+			</div><!-- /container -->
+                          
 	    <div class="navbar-wrapper">
 	      <div class="container">
 	        <ul class="nav nav-pills pull-right">
@@ -43,8 +50,6 @@
             {% assign group = 'top' %}
             {% include JB/pages_list %}
             <li><a href="//blog.blissinvite.com">Blog</a></li>
-            <li><a href="//secure.blissinvite.com/account/register">Sign Up</a></li>
-            <li><a href="//secure.blissinvite.com/account/logon">Login</a></li>
 	        </ul>
 	        <h3 class="muted"><a class="brand" href="/"><img src="http://secure.blissinvite.com/_static/img/logo.png"></a></h3>
 	      </div> <!-- /.container -->
