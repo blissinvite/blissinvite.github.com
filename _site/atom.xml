@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>BlissInvite</title>
- <link href="http://username.github.com/" rel="self"/>
- <link href="http://username.github.com"/>
- <updated>2013-03-14T22:36:52-04:00</updated>
- <id>http://username.github.com</id>
+ <link href="http://blissinvite.github.com/" rel="self"/>
+ <link href="http://blissinvite.github.com"/>
+ <updated>2013-03-14T23:03:22-04:00</updated>
+ <id>http://blissinvite.github.com</id>
  <author>
    <name>Name Lastname</name>
-   <email>blah@email.test</email>
+   <email>us@blissinvite.com</email>
  </author>
 
  
