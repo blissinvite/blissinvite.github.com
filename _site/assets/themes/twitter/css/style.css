@@ -219,7 +219,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 }
 
 .nav-pills > li > a {
-  color: #fff;
+  color: #ffffff;
 }
 /* Offset the responsive button for proper vertical alignment */
 .navbar .btn-navbar {
