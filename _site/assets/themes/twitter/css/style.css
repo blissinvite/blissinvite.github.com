@@ -214,8 +214,12 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
           border-radius: 5px;
 }
 
+.nav > li > a:hover {
+  background-color: #0088cc;
+}
+
 .nav-pills {
-  margin: 10px 0 20px;
+  margin: 15px 0 5px;
 }
 
 .nav-pills > li > a {

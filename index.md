@@ -2,6 +2,7 @@
 layout: homepage
 title: Home
 group: top
+weight: 1
 ---
 {% include JB/setup %}
 

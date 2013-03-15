@@ -39,8 +39,9 @@
 	    <div class="navbar-wrapper">
 	      <div class="container">
 	        <ul class="nav nav-pills pull-right">
-            <li><a href="/" title="Home">Home</a></li>
-            <li><a href="/how-it-works/">How It Works</a></li>
+            {% assign pages_list = site.pages %}
+            {% assign group = 'top' %}
+            {% include JB/pages_list %}
             <li><a href="//blog.blissinvite.com">Blog</a></li>
             <li><a href="//secure.blissinvite.com/account/register">Sign Up</a></li>
             <li><a href="//secure.blissinvite.com/account/logon">Login</a></li>
