@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Welcome
+title: Home
 group: top
 weight: 0
 ---

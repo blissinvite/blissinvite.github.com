@@ -1,13 +1,13 @@
 
-http://blissinvite.github.com/about/index.html
-http://blissinvite.github.com/about/our-story/
-http://blissinvite.github.com/about/team/
 http://blissinvite.github.com/archive/
 http://blissinvite.github.com/atom.xml
 http://blissinvite.github.com/categories/
 http://blissinvite.github.com/contact/
 http://blissinvite.github.com/how-it-works/
 http://blissinvite.github.com/index.html
+http://blissinvite.github.com/our-story/index.html
+http://blissinvite.github.com/our-story/our-story/
+http://blissinvite.github.com/our-story/team/
 http://blissinvite.github.com/pages/
 http://blissinvite.github.com/privacy/
 http://blissinvite.github.com/rss.xml
