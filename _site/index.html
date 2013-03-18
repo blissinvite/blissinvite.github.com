@@ -3201,15 +3201,15 @@
 		
 	  
 		
-	  
+			
+			  
+				
+				<li class="active"><a href="/index.html" class="active">Home</a></li>
+				
+			  
+			
 		
-			
-			  
-				
-				<li><a href="/our-story/index.html">Our Story</a></li>
-				
-			  
-			
+	  
 		
 	  
 		
@@ -3244,6 +3244,14 @@
 	  
 		
 	  
+		
+			
+			  
+				
+				<li><a href="/our-story/index.html">Our Story</a></li>
+				
+			  
+			
 		
 	  
 		
@@ -3297,21 +3305,13 @@
 		
 	  
 		
-			
-			  
-				
-				<li class="active"><a href="/index.html" class="active">Home</a></li>
-				
-			  
-			
-		
-	  
-		
 	  
 		
 			
 			  
 			
+		
+	  
 		
 	  
 		
@@ -3378,18 +3378,16 @@
     <div id='intro'>
   <div class='container'>
     <div class='row-fluid'>
-      <div class='span5'>
+      <div class='span12 align-center'>
         <h1> Invitations Made Easy</h1>
         <a class='btn btn-large btn-success' href='http://secure.blissinvite.com/account/register'>Let's Get Started</a>
-      </div>
-      <div class='span7 align-right'>
-        <!--iframe src="http://player.vimeo.com/video/58660647?title=0&amp;byline=0&amp;portrait=0&amp;color=5bb75b" width="500" height="281" frameborder="0"></iframe-->
-        <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding --> <object width='500' height='283'><param value='true' name='allowfullscreen' /><param value='always' name='allowscriptaccess' /><param value='http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0' name='movie' /><embed allowscriptaccess='always' width='500' src='http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0' type='application/x-shockwave-flash' allowfullscreen='true' height='281' /></object>
+        <p id='watch'>Watch the introduction <a href='#video'>video</a></p>
       </div>
     </div>
   </div> <!-- /container -->
 </div><div id='how-this-works'>
   <div class='container'>
+    <h1>It's easy!</h1>
     <div class='row-fluid'>
       <div class='span4'>
         <img src='https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-list.png' class='img-circle' />
@@ -3408,9 +3406,86 @@
       </div> <!-- /span4 -->
     </div> <!-- /row-fluid -->
   </div> <!-- /container -->
+</div><div id='video'>
+	<div class='container'>
+    <div class='row-fluid'>
+      <div class='span12 align-center'>
+        <object width='940' height='531'><param value='true' name='allowfullscreen' /><param value='always' name='allowscriptaccess' /><param value='http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0' name='movie' /><embed allowscriptaccess='always' width='940' src='http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0' type='application/x-shockwave-flash' allowfullscreen='true' height='531' /></object>
+      </div>
+    </div>
+  </div>
 </div>
   </div>
 </div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script>
+$(function() {
+	
+	function filterPath(string) {
+		return string
+		.replace(/^\//,'')
+		.replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+		.replace(/\/$/,'');
+	}
+	
+	var locationPath = filterPath(location.pathname);
+	var scrollElem = scrollableElement('html', 'body');
+	
+	// Any links with hash tags in them (can't do ^= because of fully qualified URL potential)
+	$('a[href*=#]').each(function() {
+	
+		// Ensure it's a same-page link
+		var thisPath = filterPath(this.pathname) || locationPath;
+		if (  locationPath == thisPath
+			&& (location.hostname == this.hostname || !this.hostname)
+			&& this.hash.replace(/#/,'') ) {
+	
+				// Ensure target exists
+				var $target = $(this.hash), target = this.hash;
+				if (target) {
+	
+					// Find location of target
+					var targetOffset = $target.offset().top;
+					$(this).click(function(event) {
+	
+						// Prevent jump-down
+						event.preventDefault();
+	
+						// Animate to target
+						$(scrollElem).animate({scrollTop: targetOffset}, 400, function() {
+	
+							// Set hash in URL after animation successful
+							location.hash = target;
+	
+						});
+					});
+				}
+		}
+	
+	});
+	
+	// Use the first element that is "scrollable"  (cross-browser fix?)
+	function scrollableElement(els) {
+		for (var i = 0, argLength = arguments.length; i <argLength; i++) {
+			var el = arguments[i],
+			$scrollElement = $(el);
+			if ($scrollElement.scrollTop()> 0) {
+				return el;
+			} else {
+				$scrollElement.scrollTop(1);
+				var isScrollable = $scrollElement.scrollTop()> 0;
+				$scrollElement.scrollTop(0);
+				if (isScrollable) {
+					return el;
+				}
+			}
+		}
+		return [];
+	}
+	
+});
+</script>
 
     </div>
 
@@ -6579,11 +6654,11 @@
 		
 	  
 		
-	  
-		
 			
 			  
 			
+		
+	  
 		
 	  
 		
@@ -6618,6 +6693,10 @@
 	  
 		
 	  
+		
+			
+			  
+			
 		
 	  
 		
@@ -6671,17 +6750,13 @@
 		
 	  
 		
-			
-			  
-			
-		
-	  
-		
 	  
 		
 			
 			  
 			
+		
+	  
 		
 	  
 		

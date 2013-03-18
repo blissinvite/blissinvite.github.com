@@ -3,7 +3,7 @@ layout: page
 title: "Our Story"
 description: ""
 group: top
-weight: 2
+weight: 1
 ---
 {% include JB/setup %}
 

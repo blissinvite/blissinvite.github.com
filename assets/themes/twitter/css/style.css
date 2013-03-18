@@ -257,7 +257,12 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   line-height: 1;
 }
 #intro {
-  margin: 0 0 50px;
+  height: 285px;
+  padding-top: 35px;
+}
+#intro p#watch {
+  color: rgb(221, 221, 221);
+  padding: 5px;
 }
 #intro .btn {
   font-size: 1.5em;
@@ -304,6 +309,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 }
 #how-this-works {
   text-align: center;
+  margin: 50px 0;
 }
 #how-this-works h1 {
   text-align: left;
@@ -314,6 +320,10 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 }
 #how-this-works img {
   width: 150px;
+}
+#video { 
+  background: rgb(238, 238, 238);
+  padding: 50px 0;
 }
 
 /* MARKETING CONTENT

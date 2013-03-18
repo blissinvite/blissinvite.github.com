@@ -5,8 +5,8 @@ http://blissinvite.github.com/categories/
 http://blissinvite.github.com/contact/
 http://blissinvite.github.com/how-it-works/
 http://blissinvite.github.com/index.html
+http://blissinvite.github.com/our-story/how-we-do-it/
 http://blissinvite.github.com/our-story/index.html
-http://blissinvite.github.com/our-story/our-story/
 http://blissinvite.github.com/our-story/team/
 http://blissinvite.github.com/pages/
 http://blissinvite.github.com/privacy/

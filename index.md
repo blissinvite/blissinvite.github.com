@@ -2,16 +2,17 @@
 layout: homepage
 title: Home
 group: top
-weight: 0
+weight: 2
 ---
 {% include JB/setup %}
 
 <div id="intro">
   <div class="container">
     <div class="row-fluid">
-      <div class="span12">
+      <div class="span12 align-center">
         <h1> Invitations Made Easy</h1>
         <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Let's Get Started</a>
+        <p id="watch">Watch the introduction <a href="#video">video</a></p>
       </div>
     </div>
   </div> <!-- /container -->
@@ -19,6 +20,7 @@ weight: 0
 
 <div id="how-this-works">
   <div class="container">
+    <h1>It's easy!</h1>
     <div class="row-fluid">
       <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-list.png" class="img-circle">
@@ -39,12 +41,12 @@ weight: 0
   </div> <!-- /container -->
 </div> <!-- /how-this-works -->
 
-<div>
+<div id="video">
 	<div class="container">
-    	<div class="row-fluid">
-        	<div class="span12">
-        <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding --> <object width="940" height="500"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object>
-           </div>
-        </div>
+    <div class="row-fluid">
+      <div class="span12 align-center">
+        <object width="940" height="531"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="940" height="531"></embed></object>
+      </div>
     </div>
+  </div>
 </div>
