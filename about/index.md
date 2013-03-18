@@ -2,6 +2,8 @@
 layout: page
 title: "Our Story: Invitations Reimagined"
 description: "Bliss Invite was founded on the premise that we don’t have to completely leave the old behind to make way for the new. And we don't have to compromise design for sake of efficiency. So we made both efficiency and elegant design our priority in all what we do, from our beautifully designed cards and web application to our customer service."
+group: top
+weight: 3
 ---
 {% include JB/setup %}
 
