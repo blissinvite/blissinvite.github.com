@@ -9,13 +9,9 @@ weight: 0
 <div id="intro">
   <div class="container">
     <div class="row-fluid">
-      <div class="span5">
+      <div class="span12">
         <h1> Invitations Made Easy</h1>
         <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Let's Get Started</a>
-      </div>
-      <div class="span7 align-right">
-        <!--iframe src="http://player.vimeo.com/video/58660647?title=0&amp;byline=0&amp;portrait=0&amp;color=5bb75b" width="500" height="281" frameborder="0"></iframe-->
-        <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding --> <object width="500" height="283"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object>
       </div>
     </div>
   </div> <!-- /container -->
@@ -42,3 +38,13 @@ weight: 0
     </div> <!-- /row-fluid -->
   </div> <!-- /container -->
 </div> <!-- /how-this-works -->
+
+<div>
+	<div class="container">
+    	<div class="row-fluid">
+        	<div class="span12">
+        <!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/help/faq/embedding --> <object width="940" height="500"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=58660647&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=5bb75b&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object>
+           </div>
+        </div>
+    </div>
+</div>
