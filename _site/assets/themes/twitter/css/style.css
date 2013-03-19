@@ -31,6 +31,11 @@ h1, h2, h3, h4, h5 {
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
+.section h1 {
+  text-align: left;
+  margin-bottom: 60px;
+}
+
 
 /* Header
 -----------------------------------------------------------*/
@@ -315,10 +320,6 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 #how-this-works {
   text-align: center;
   margin: 50px 0;
-}
-#how-this-works h1 {
-  text-align: left;
-  margin-bottom: 60px;
 }
 #how-this-works h3 {
   font-weight: 300;
