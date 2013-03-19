@@ -9,7 +9,7 @@ weight: 1
 
 <h2>Invitations Reimagined</h2>
 
-<p>Bliss Invite was founded on the premise that we don’t have to completely leave the old behind to make way for the new. And we don't have to compromise design for sake of efficiency. So we made both efficiency and elegant design our priority in all what we do, from our beautifully designed cards and web application to our customer service.</p>
+<p>Bliss Invite was founded on the premise that we don’t have to completely leave the old behind to make way for the new. And we don't have to compromise design for sake of efficiency. So we made both efficiency and elegant design our priority in all what we do, from our beautifully designed cards and web application to our customer service.test</p>
 
 <p>Our mission is to preserve and cherish the art of typesetting, calligraphy and paper design. Our goal is to bring carefully and beautifully crafted invitation cards to you by partnering with talented local designers.Through our elegantly designed site and services we introduce our designers to the national stage and our customers to top talent.</p>
 
