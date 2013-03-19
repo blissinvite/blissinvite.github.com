@@ -267,6 +267,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   font-size: 72px;
   line-height: 1;
 }
+
 #intro {
   height: 285px;
   padding-top: 35px;
@@ -288,6 +289,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   margin: 15px 0 35px;
   color: #fff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  text-align: center;
 }
 /*
 #intro #get-started {
