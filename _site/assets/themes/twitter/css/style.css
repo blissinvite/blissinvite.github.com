@@ -1,6 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
 body {
   background: url(../images/blissinvite-background-04.jpg) rgb(247, 247, 247) no-repeat 50% -275px;
   padding-bottom: 40px;
+}
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: -1px;
 }
 .grey {
   color: #acacac;
@@ -277,7 +283,6 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   margin: 15px 0 35px;
   color: #fff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
-  font-weight: 500;
 }
 /*
 #intro #get-started {
