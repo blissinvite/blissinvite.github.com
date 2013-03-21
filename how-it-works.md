@@ -10,10 +10,9 @@ weight: 0
 <h2>Elegant Solution</h2> 
 
 <p>In an effort to bring high touch to this high tech era the team at Bliss Invite deconstructed the science of exchanging correspondence and mailing invitations to present an elegant and simple solution to the world.</p>  
- 
-<h2>Our technology team developed a web application that allows you to:<h2>  
 
-<p>(1) build your guest list by importing your contacts from social media sites or email accounts</p>
+<h2>Our technology team developed a web application that allows you to:</h2> 
+<p>(1) build your guest list by importing your contacts from social media sites or email accounts</p> 
 <p>(2)use a slick online form to collect your guest’s mailing addresses</p>
 <p>(3)order our free sample kit to touch and feel the cards and choose the one that you like</p>
 <p>(4)have your invitation hand-addressed with beautiful caligraphy and mailed directly to your guests(you don’t have to worry about stuffing envelopes)</p>
