@@ -30,7 +30,7 @@ weight: 1
 <h2>We are different in two ways:</h2>
 
 <p>1. We are a full service invitation management company.
-Our products and services are sold as one package. And we have a simple three tier pricing system: standard, premium and Lux.</p> 
+Our products and services are sold as one package. And we have a simple three tier pricing system: Standard, Premium and Lux.</p> 
 <p>Included in each package is :</p>
 <p>a. A suite of cards that you will need for your wedding day </p>
 <p>b. A web app that allows you to manage the invitation process from beginning to end, starting with guest address collection and RSVP management </p>
