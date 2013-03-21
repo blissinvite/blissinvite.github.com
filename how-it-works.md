@@ -6,7 +6,13 @@ group: top
 weight: 0
 ---
 {% include JB/setup %}
-<p> In an effort to bring high touch to this high tech era the team at Bliss Invite deconstructed the science of exchanging correspondence and mailing invitations to present an elegant and simple solution to the world. <p/> 
+<h2>Invitations Reimagined</h2>
+
+Bliss Invite was founded on the premise that we don’t have to completely leave the old behind to make way for the new. And we don't have to compromise design for sake of efficiency. So we made both efficiency and elegant design our priority in all what we do, from our beautifully designed cards and web application to our customer service. 
+
+<h2>Elegant Solution</h2> 
+
+<p>In an effort to bring high touch to this high tech era the team at Bliss Invite deconstructed the science of exchanging correspondence and mailing invitations to present an elegant and simple solution to the world.</p>  
  
 <p>Our technology team developed a web application that allows you to:<p/>  
 
