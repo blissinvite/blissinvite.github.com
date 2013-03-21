@@ -19,7 +19,7 @@ weight: 0
 <p>(4) Have your invitation hand-addressed with beautiful caligraphy and mailed directly to your guests(you don’t have to worry about stuffing envelopes)</p>
 <p>(5)manage your RSVP list</p>
  
-<h3>Furthermore, you can send us a picture from your honeymoon and we will create and mail your thank you note directly to your guests.</h3>
+<h2>Furthermore, you can send us a picture from your honeymoon and we will create and mail your thank you note directly to your guests.</h2>
  
 <p>Our cards are hand picked and curated especially for our busy customers that love art, design and technology and are looking to buy high quality cards in an efficient manner. We carry cards that are designed by local artisans that are very passionate about their craft and their passion is reflected through the quality of the cards.</p>
  
