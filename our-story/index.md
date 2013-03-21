@@ -25,15 +25,15 @@ weight: 1
 <p>Our cards are hand picked and curated especially for a sophisticated couple, that love art, design and technology and are looking to buy high quality cards in an efficient manner. We carry cards that are designed by local artisans that are very passionate about their craft and the passion is reflected through the quality of the cards. With a few clicks our customers can buy beautifully crafted luxury cards and not worry about stuffing and labeling/addressing envelopes. </p>
 
 <h2>What defines the quality of a card</h2>
-<p>Paper type, printing technique and craftsmanship. Bliss Invite cards fulfills all three promises. </p>
+<p>Paper type, printing technique and craftsmanship. Bliss Invite cards fulfill all three promises. </p>
 
-<h2>We are very different in two ways:</h2>
+<h2>We are different in two ways:</h2>
 
-<p>1. We are a full service invitation management company
-Our products and services are sold as one package. And we have a simple three tier pricing system: standard, premium and Lux. Included in each package is a:
-a. suite of cards that you will need for your wedding day 
-b. web application that allows you to manage the invitation from beginning to end, starting with guest address collection and RSVP management 
-c. envelope assembly, hand addressing and calligraphy  </p>
+<p>1. We are a full service invitation management company.
+Our products and services are sold as one package. And we have a simple three tier pricing system: standard, premium and Lux. Included in each package is a:</p>
+<p>a. suite of cards that you will need for your wedding day </p>
+<p>b. web application that allows you to manage the invitation from beginning to end, starting with guest address collection and RSVP management </p>
+<p>c. envelope assembly, hand addressing and calligraphy  </p>
 
 <p>2. We source our design directly from local designers.
-Our web-based curated sales approach allows you to have access to amazingly talented designers without driving around and scouting through brick and mortar boutique shops saving you time and money. The best part, you get to enjoy your beautiful cards while nurturing both the local community as well as young couples in need around the world and the US.  With our “Mark your beginning with giving” campaign, we are introducing social enterprising to the wedding and stationery industry. For every order placed on our site, newlyweds in need receive a gift from Bliss Invite. </p>
+Our web-based curated sales approach allows you to have access to amazingly talented designers without driving around and scouting through brick and mortar boutique shops saving you time and money. The best part, you get to enjoy your beautiful cards while nurturing both the local community as well as young couples in need around the world and the US.  With our “Mark Your Beginning With Giving” campaign, we are introducing social enterprising to the wedding and stationery industry. For every order placed on our site, newlyweds in need receive a gift from Bliss Invite. </p>
