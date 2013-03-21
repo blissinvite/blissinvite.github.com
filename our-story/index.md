@@ -30,10 +30,11 @@ weight: 1
 <h2>We are different in two ways:</h2>
 
 <p>1. We are a full service invitation management company.
-Our products and services are sold as one package. And we have a simple three tier pricing system: standard, premium and Lux.</p> <p>Included in each package is a:</p>
-<p>a. suite of cards that you will need for your wedding day </p>
-<p>b. web app that allows you to manage the invitation process from beginning to end, starting with guest address collection and RSVP management </p>
-<p>c. envelope assembly, hand addressing and calligraphy  </p>
+Our products and services are sold as one package. And we have a simple three tier pricing system: standard, premium and Lux.</p> 
+<p>Included in each package is :</p>
+<p>a. A suite of cards that you will need for your wedding day </p>
+<p>b. A web app that allows you to manage the invitation process from beginning to end, starting with guest address collection and RSVP management </p>
+<p>c. Envelope assembly, hand addressing and calligraphy  </p>
 
 <p>2. We source our design directly from local designers.
 Our web-based curated sales approach allows you to have access to amazingly talented designers without driving around and scouting through brick and mortar boutique shops saving you time and money. The best part, you get to enjoy your beautiful cards while nurturing both the local community as well as young couples in need around the world and the US.  With our “Mark Your Beginning With Giving” campaign, we are introducing social enterprising to the wedding and stationery industry. For every order placed on our site, newlyweds in need receive a gift from Bliss Invite. </p>
