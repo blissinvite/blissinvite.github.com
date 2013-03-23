@@ -108,7 +108,8 @@ header #uiMainNav li a:hover#cards .icon,
 header #uiMainNav li a:hover .text,
 header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 
-.brand { overflow}
+.page-header h1 { margin-bottom: 0; }
+.page-header h2 { margin-top: 0; }
 
 /* Footer
 -----------------------------------------------------------*/

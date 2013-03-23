@@ -9,18 +9,17 @@ tags:
 ---
 {% include JB/setup %}
 
-Invitations Reimagined
+**Invitations Reimagined**
 
 Bliss Invite was founded on the premise that we don’t have to completely leave the old behind to make way for the new. And we don't have to compromise design for sake of efficiency. So we made both efficiency and elegant design our priority in all what we do, from our beautifully designed cards and web application to our customer service.  
 
-Why invitations?
+**Why invitations?**
 
 As Engineers and Designers, we love to build and create things with our hands and appreciate the mechanics of machines. Interestingly, we found all of those things we love, in card making and of course software engineering. We love the classic print machinerys from the 1800s and the loud roaring sound of the printing presses. 
 
 So we said to ourselves, how do we marry the old and the new. How do we keep the art of card making, calligraphy printing and design alive in this age of emails and tweets? And why do we need to keep it alive? We need to keep it alive because messages inked on cards that you can touch and feel carry more weight and meaning.High tech instant communication is all around us and can be desensitizing. We also believe that the classic form of printing, like letterpress is a form of art and needs to be cherished and shared. We want to tell the world that papermaking and printing is a form of classic art that needs to be preserved and valued. While we are big advocates of high tech, recycling paper and planting trees we believe that one doesn’t have to abandon the old to make way for the new. Instead we can integrate the new and the old and create something beautiful.
 
-
-Why Bliss Invite?
+**Why Bliss Invite?**
 
 Finding the right invitation card is overwhelming, you are presented thousands of options and can literally spend weekend after weekend looking for the right card. If you are looking for timeless design and understated elegance. You have come to the right place. We have narrowed down the selection to the top 15 and bring you carefully and beautifully crafted invitation cards by partnering with talented local designers.
 
@@ -29,14 +28,12 @@ Our cards are hand picked and curated especially for a sophisticated couple, tha
 What defines the quality of a card
 Paper type, printing technique and craftsmanship. Bliss Invite cards fulfill all three promises. 
 
-We are different in two ways:
+**We are different in two ways:**
 
-1. We are a full service invitation management company.
-Our products and services are sold as one package. And we have a simple three tier pricing system: Standard, Premium and Lux. 
-Included in each package is :
-a. A suite of cards that you will need for your wedding day 
-b. A web app that allows you to manage the invitation process from beginning to end, starting with guest address collection and RSVP management 
-c. Envelope assembly, hand addressing and calligraphy  
+1. *We are a full service invitation management company* Our products and services are sold as one package. And we have a simple three tier pricing system: Standard, Premium and Lux. 
+  Included in each package is :
+  * a. A suite of cards that you will need for your wedding day 
+  * b. A web app that allows you to manage the invitation process from beginning to end, starting with guest address collection and RSVP management 
+  * c. Envelope assembly, hand addressing and calligraphy  
 
-2. We source our design directly from local designers.
-Our web-based curated sales approach allows you to have access to amazingly talented designers without driving around and scouting through brick and mortar boutique shops saving you time and money. The best part, you get to enjoy your beautiful cards while nurturing both the local community as well as young couples in need around the world and the US.  With our “Mark Your Beginning With Giving” campaign, we are introducing social enterprising to the wedding and stationery industry. For every order placed on our site, newlyweds in need receive a gift from Bliss Invite. 
+2. *We source our design directly from local designers.* Our web-based curated sales approach allows you to have access to amazingly talented designers without driving around and scouting through brick and mortar boutique shops saving you time and money. The best part, you get to enjoy your beautiful cards while nurturing both the local community as well as young couples in need around the world and the US.  With our “Mark Your Beginning With Giving” campaign, we are introducing social enterprising to the wedding and stationery industry. For every order placed on our site, newlyweds in need receive a gift from Bliss Invite. 
