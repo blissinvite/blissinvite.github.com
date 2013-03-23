@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Home
+title: "Home"
 group: top
 weight: 2
 ---
@@ -15,8 +15,10 @@ weight: 2
         <p id="watch">Watch the introduction <a href="#video">video</a></p>
       </div>
     </div>
-  </div> <!-- /container -->
-</div><!-- /intro -->
+  </div> 
+  <!-- /container -->
+</div>
+<!-- /intro -->
 
 <div id="how-this-works" class="section">
   <div class="container">
@@ -26,20 +28,26 @@ weight: 2
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-list.png" class="img-circle">
         <h3>Import Friends.</h3>
         <p class="grey">Simply click a few buttons to import your family &amp; friends from Facebook, Twitter, Gmail, Yahoo! &amp; <a href="#">others</a></p>
-      </div> <!-- /span4 -->
+      </div> 
+      <!-- /span4 -->
       <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-card.png" class="img-circle">
         <h3>Pick a Card.</h3>
         <p class="grey">We hand picked gorgeous cards designed by local <a href="#">artisans</a>. Allow us to introduce you to the delightful, sumptuous world of letterpress, and add a luxurious dimension to your wedding. </p>
-     </div> <!-- /span4 -->
+     </div> 
+     <!-- /span4 -->
      <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-relax.png" class="img-circle">
         <h3>Relax, We Got it.</h3>
         <p class="grey">Our fantastic <a href="#">staff</a> will take care of the rest. We will stuff the envelop, hand address and stamp it one card at a time.</p>
-      </div> <!-- /span4 -->
-    </div> <!-- /row-fluid -->
-  </div> <!-- /container -->
-</div> <!-- /how-this-works -->
+      </div> 
+      <!-- /span4 -->
+    </div> 
+    <!-- /row-fluid -->
+  </div> 
+  <!-- /container -->
+</div> 
+<!-- /how-this-works -->
 
 <div id="video" class="section">
 	<div class="container">

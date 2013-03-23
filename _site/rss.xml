@@ -5,10 +5,26 @@
         <description>BlissInvite - Name Lastname</description>
         <link>http://blissinvite.github.com</link>
         <link>http://blissinvite.github.com</link>
-        <lastBuildDate>2013-03-18T22:29:26-04:00</lastBuildDate>
-        <pubDate>2013-03-18T22:29:26-04:00</pubDate>
+        <lastBuildDate>2013-03-23T16:52:05-04:00</lastBuildDate>
+        <pubDate>2013-03-23T16:52:05-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Mike</title>
+                <description></description>
+                <link>http://blissinvite.github.com/team/mike</link>
+                <guid>http://blissinvite.github.com/team/mike</guid>
+                <pubDate>2013-03-23T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Hilina</title>
+                <description></description>
+                <link>http://blissinvite.github.com/team/hilina</link>
+                <guid>http://blissinvite.github.com/team/hilina</guid>
+                <pubDate>2013-03-23T00:00:00-04:00</pubDate>
+        </item>
 
 
 </channel>
