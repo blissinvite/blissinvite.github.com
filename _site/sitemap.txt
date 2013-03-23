@@ -3,6 +3,7 @@ http://blissinvite.github.com/archive.html
 http://blissinvite.github.com/atom.xml
 http://blissinvite.github.com/categories.html
 http://blissinvite.github.com/contact.html
+http://blissinvite.github.com/faq.html
 http://blissinvite.github.com/how-it-works.html
 http://blissinvite.github.com/index.html
 http://blissinvite.github.com/our-story/how-we-do-it.html
