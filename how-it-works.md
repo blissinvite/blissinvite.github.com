@@ -27,5 +27,5 @@ To sum it up, BlissInvite provides an end to end solution needed to mail high qu
 
 We would love to hear from you. **Follow us @blissinvite** |
 Bliss Invite Inc. 
-202-642-4061
+(240) 200-4218
 hilina@blissinvite.com
