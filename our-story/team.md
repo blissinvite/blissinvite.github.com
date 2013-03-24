@@ -27,5 +27,5 @@ We are always looking for talented print designers and developers to join our te
 
 We would love to hear from you. **Follow us @blissinvite** |
 Bliss Invite Inc. 
-202-642-4061
+(240) 200-4218
 hilina@blissinvite.com
