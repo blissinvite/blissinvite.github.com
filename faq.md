@@ -8,7 +8,7 @@ group: footer
 
 **How soon will I  get my orderers?**
 
-Depending on the type of printing selected it may take 3-15 business days, the luxury printing suite, letterpress and embossing takes longer because it is labor intensive and each card is handled individually. Please see details of shipping below.
+Depending on the type of printing selected it may take 3-15 business days, the lux printing suite, letterpress and embossing takes longer because it is labor intensive and each card is handled individually. Please see details of shipping below.
 
 **Domestic (US)**
 
@@ -32,7 +32,7 @@ We encourage you to order our sample kit to touch and feel the thick quality pap
 If the your order did not come out as expected due system or process issues on our end , we offer a no questions asked, 30-day return policy from the day you receive your order. For all other orders where a customer may have a change of heart after customer approves the digital design we will not be able to offer a refunded due to the custom nature of word we do.  
 I’ve received my cards but would like to return them — how do I do this?
 
-Trying to make a return or exchange can often be a frustrating experience — which is why we’ve tried to make it as easy as possible! Please give us a call at 202 642 4061, Mon–Fri, 9am–6pm ET, or email us at returns@bissinvite.com within 30 days of receiving your order. We would love to know why you are returning the glasses and so that we can better serve you for your next order.
+Trying to make a return or exchange can often be a frustrating experience — which is why we’ve tried to make it as easy as possible! Please give us a call at (240) 200-4218, Mon–Fri, 9am–6pm ET, or email us at returns@bissinvite.com within 14 days of receiving your order. We would love to know why you are returning the glasses and so that we can better serve you for your next order.
 Once your return or exchange request has been received, we will email you a prepaid return shipping label. Simply print it, attach it to the package you will be returning, and drop it off with UPS.
 
 Unfortunately we cannot provide prepaid return shipping labels to customers outside the contiguous US.
@@ -52,3 +52,5 @@ Unfortunately we cannot provide prepaid return shipping labels to customers outs
 **Privacy Policy**
 
 Your information is safe with us. All the data on our site is stored securely. We do not share or sell your information to third party entities. 
+
+
