@@ -52,5 +52,5 @@ Paper type, printing technique and craftsmanship. Bliss Invite provides cards th
 
 We would love to hear from you. **Follow us @blissinvite** |
 Bliss Invite Inc. 
-202-642-4061
+(240) 200-4218
 hilina@blissinvite.com
