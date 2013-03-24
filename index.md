@@ -33,7 +33,7 @@ weight: 2
       <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-card.png" class="img-circle">
         <h3>Pick a Card.</h3>
-        <p class="grey">We hand picked gorgeous cards designed by local <a href="#">artisans</a>. Allow us to introduce you to the delightful, sumptuous world of letterpress, and add a luxurious dimension to your wedding. </p>
+        <p class="grey">We hand picked gorgeous cards designed by local <a href="#artisans">artisans</a>. Allow us to introduce you to the delightful, sumptuous world of letterpress, and add a luxurious dimension to your wedding. </p>
      </div> 
      <!-- /span4 -->
      <div class="span4">
@@ -59,3 +59,33 @@ weight: 2
     </div>
   </div>
 </div>
+<!--/video-->
+
+<div id="artisans" class="section">
+  <div class="container">
+    <h1>Meet our artisans</h1>
+    <div class="row-fluid">
+      <div class="span4">
+        <img src="http://cdn.shopify.com/s/files/1/0199/0476/collections/kat_medium.png?1400" class="img-circle">
+        <h3>Gilah Press</h3>
+        <p class="grey">Kat Feuerstein is owner of Gilah Press a Baltmore based boutique letterpress and design studio. Kat and the designers at Gilah have mastered the centuries-old form of letterpress printing. And make absolutley gorgeous invitations.</p>
+     </div> 
+     <!-- /span4 -->
+      <div class="span4">
+        <img src="http://cdn.shopify.com/s/files/1/0199/0476/collections/Untitled-1_medium.png?1400" class="img-circle">
+        <h3>Pink Orchid</h3>
+        <p class="grey">Caroline Russo is the designer and owner behind Pink Orchid Invitations, specializing in custom invitations and other lovely paper goods.</p>
+      </div> 
+      <!-- /span4 -->
+     <div class="span4">
+        <img src="http://cdn.shopify.com/s/files/1/0199/0476/collections/Untitled-3_medium.png?1400" class="img-circle">
+        <h3>Diana Ghazzawi</h3>
+        <p class="grey">Diana Ghazzawi is a book editor, designer, and typesetter for a NJ based publisher by day. By night, she does the same things (and more!) through her editing and design company, Wordreams.</p>
+      </div> 
+      <!-- /span4 -->
+    </div> 
+    <!-- /row-fluid -->
+  </div> 
+  <!-- /container -->
+</div> 
+<!-- /artisans -->

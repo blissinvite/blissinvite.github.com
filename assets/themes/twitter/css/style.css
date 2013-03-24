@@ -322,16 +322,20 @@ header .navbar .btn-navbar {
   margin-right: 7px;
   width: 330px;
 }
-#how-this-works {
+#how-this-works,
+#artisans {
   text-align: center;
   margin: 50px 0;
 }
-#how-this-works h3 {
+#how-this-works h3,
+#artisans h3 {
   font-weight: 300;
 }
-#how-this-works img {
+#how-this-works img,
+#artisans img {
   width: 150px;
 }
+
 #video { 
   background: rgb(238, 238, 238);
   padding: 50px 0;
