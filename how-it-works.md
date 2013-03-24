@@ -24,3 +24,8 @@ Furthermore, customers on our site can send us a picture from their honeymoon an
 Our cards are hand picked and curated especially for the busy and sophisticated couple that love art, design and technology and are looking to buy high quality cards in an efficient manner. We carry cards that are designed by local artisans that are very passionate about their craft and the passion is reflected through the quality of the cards. 
 
 To sum it up, BlissInvite provides an end to end solution needed to mail high quality personalized invitations with beautiful calligraphy. 
+
+We would love to hear from you. Follow us @blissinvite
+Bliss Invite Inc. 
+202-642-4061
+hilina@blissinvite.com
