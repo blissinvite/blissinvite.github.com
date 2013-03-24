@@ -31,7 +31,7 @@ Unfortunately, the process of mailing invitations hasn’t changed much since th
 
 Our newly developed web application allows our customers to a) easily collect their guests’ mailing addresses, b) manage their RSVP list and c) buy beautiful cards. 
 
-From then on, we take care of the rest—from carefully assembling and addressing the envelope by hand with beautiful calligraphy, to ___________. 
+From then on, we take care of the rest—from carefully assembling and addressing the envelope by hand with beautiful calligraphy, to mailing the invitations directly to your guests.
 
 1. Import your contacts and automatically collect their mailing address - no need to text or send your friends individual Facebook messages to remind them to RSVP.  
 2. Select your preferred invitation suite (standard, premium, or luxury) from our collection. Allow us to introduce you to the delightful, sumptuous world of letterpress to add a luxurious dimension to your wedding.
