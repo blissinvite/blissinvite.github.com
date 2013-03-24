@@ -25,7 +25,7 @@ Our cards are hand picked and curated especially for the busy and sophisticated 
 
 To sum it up, BlissInvite provides an end to end solution needed to mail high quality personalized invitations with beautiful calligraphy. 
 
-We would love to hear from you. Follow us @blissinvite |
+We would love to hear from you. **Follow us @blissinvite** |
 Bliss Invite Inc. 
 202-642-4061
 hilina@blissinvite.com
