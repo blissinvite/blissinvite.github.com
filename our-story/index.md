@@ -50,7 +50,7 @@ Paper type, printing technique and craftsmanship. Bliss Invite provides cards th
 
 2. *We source our design directly from local designers.* Our web-based, curated approach allows you to have access to amazingly talented designers without having to drive around and scout brick and mortar boutique shops, saving you time and money. Our designers’ passion for craft comes through in the sumptuous quality of their work. 
 
-We would love to hear from you. Follow us @blissinvite
+We would love to hear from you. Follow us @blissinvite |
 Bliss Invite Inc. 
 202-642-4061
 hilina@blissinvite.com
