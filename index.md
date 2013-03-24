@@ -63,7 +63,7 @@ weight: 2
 
 <div id="artisans" class="section">
   <div class="container">
-    <h1>Meet our artisans</h1>
+    <h1>Meet Our Designers</h1>
     <div class="row-fluid">
       <div class="span4">
         <img src="http://cdn.shopify.com/s/files/1/0199/0476/collections/kat_medium.png?1400" class="img-circle">
