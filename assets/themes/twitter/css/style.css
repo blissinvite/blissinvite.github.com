@@ -5,8 +5,7 @@ body {
   padding-bottom: 40px;
 }
 h1, h2, h3, h4, h5 {
-  font-family: 'Raleway', sans-serif;
-  letter-spacing: -1px;
+  font-family: 'Raleway', Helvetica, arial, sans-serif;
 }
 .grey {
   color: #acacac;
@@ -25,11 +24,6 @@ h1, h2, h3, h4, h5 {
   -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4);
   -webkit-box-shadow: 0 1px 3px rgba(34,25,25,0.4);
   -moz-border-radius: 3px;
-}
-.btn {
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
 }
 .section h1 {
   text-align: left;
@@ -125,7 +119,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
     border-radius: 5px;  
 }
 #footer a { color: #c9c9c9; }
-#footer a:hover { color: #fff; text-decoration: none; }
+#footer a:hover { text-decoration: underline; }
 #footer ul { margin: 0; }
 #footer ul li { display: inline; list-style: none; padding-right: 10px; }
 
@@ -143,31 +137,31 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 /* NAVBAR
 -----------------------------------------------------------*/
 
-.navbar-inverse .nav > li > a {
+header .navbar-inverse .nav > li > a {
   color: #fff !important;
   text-shadow: none !important;
 }
 
-.navbar-inverse .nav .active > a,
-.navbar-inverse .nav .active > a:hover,
-.navbar-inverse .nav .active > a:focus {
+header .navbar-inverse .nav .active > a,
+header .navbar-inverse .nav .active > a:hover,
+header .navbar-inverse .nav .active > a:focus {
   background-color: #047575;
 }
 
-.navbar-inverse .nav > li > a:hover {
+header .navbar-inverse .nav > li > a:hover {
   color: #047575 !important;
 }
 
 
 /* Remove border and change up box shadow for more contrast */
-.navbar .navbar-inner {
+header .navbar .navbar-inner {
   border: 0;
   -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
      -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
           box-shadow: 0 2px 10px rgba(0,0,0,.25);
 }
 
-.navbar-inverse .navbar-inner {
+header .navbar-inverse .navbar-inner {
   background-color: #7ccaca;
   background-image: -moz-linear-gradient(top, #7ccaca, #6bb4b4);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#7ccaca), to(#6bb4b4));
@@ -179,7 +173,7 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
 }
 
-.navbar-inverse .btn-navbar {
+header .navbar-inverse .btn-navbar {
   background-color: #047575;
   *background-color: #047575;
   background-image: -moz-linear-gradient(top, #047575, #025d5d);
@@ -194,17 +188,17 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
-.navbar-inverse .btn-navbar:hover, 
-.navbar-inverse .btn-navbar:active, 
-.navbar-inverse .btn-navbar.active, 
-.navbar-inverse .btn-navbar.disabled, 
-.navbar-inverse .btn-navbar[disabled] {
+header .navbar-inverse .btn-navbar:hover, 
+header .navbar-inverse .btn-navbar:active, 
+header .navbar-inverse .btn-navbar.active, 
+header .navbar-inverse .btn-navbar.disabled, 
+header .navbar-inverse .btn-navbar[disabled] {
   color: rgb(255, 255, 255);
   background-color: rgb(4, 4, 4);
 }
 
 /* Downsize the brand/project name a bit */
-.navbar .brand {
+header .navbar .brand {
   padding: 10px 20px 10px; /* Increase vertical padding to match navbar links */
   font-size: 16px;
   font-weight: bold;
@@ -212,12 +206,11 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 }
 
 /* Navbar links: increase padding for taller navbar */
-.navbar .nav > li > a {
+header .navbar .nav > li > a {
   padding: 8px 15px;
   margin: 9px 0;
 }
-
-.navbar .nav > li.active > a {
+header .navbar .nav > li.active > a {
   background-color: #047575;
   *background-color: #047575;
   background-image: -moz-linear-gradient(top, #047575, #025d5d);
@@ -232,21 +225,30 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
      -moz-border-radius: 5px;
           border-radius: 5px;
 }
-
-.nav > li > a:hover {
-  background-color: #0088cc;
+header .nav-pills > a:hover, 
+header .nav-pills > .active > a, 
+header .nav-pills > .active > a:hover {
+  background-color: #2ecc71;
 }
-
-.nav-pills {
+header .nav-pills {
   margin: 15px 0 5px;
 }
-
-.nav-pills > li > a {
+header .nav-pills > li > a {
   color: #ffffff;
 }
+
 /* Offset the responsive button for proper vertical alignment */
-.navbar .btn-navbar {
+header .navbar .btn-navbar {
   margin-top: 10px;
+}
+
+.stick {
+  position: fixed;
+  top: 0;
+  z-index: 10000;
+  width: 900px;
+  padding-top: 15px;
+  background: #fff;
 }
 
 
