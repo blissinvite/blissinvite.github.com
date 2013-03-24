@@ -8,6 +8,6 @@ group: footer
 
 Bliss Invite Inc.
 
-202-642-4061
+(240) 200-4218
 
-us@blissinvite.com
+hilina@blissinvite.com

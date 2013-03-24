@@ -24,3 +24,8 @@ Our team is comprised of left brainers and right brainers, sometimes in the same
 - Finally we love paper & ink - obviously we are in the business!
 
 We are always looking for talented print designers and developers to join our team. If you are interested please send us an email at us@blissinvite.com
+
+We would love to hear from you. **Follow us @blissinvite** |
+Bliss Invite Inc. 
+(240) 200-4218
+hilina@blissinvite.com
