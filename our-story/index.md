@@ -29,7 +29,10 @@ Unfortunately, the process of mailing invitations hasn’t changed much since th
 
 **How do we do it ?**
 
-Our newly developed web application allows our customers to a) easily collect their guests’ mailing addresses, b) manage their RSVP list and c) buy beautiful cards. 
+Our newly developed web application allows our customers to 
+* a) easily collect their guests’ mailing addresses, 
+* b) manage their RSVP list and 
+* c) buy beautiful cards. 
 
 From then on, we take care of the rest—from carefully assembling and addressing the envelope by hand with beautiful calligraphy, to mailing the invitations directly to your guests.
 
