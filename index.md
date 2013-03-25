@@ -27,7 +27,7 @@ weight: 2
       <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-list.png" class="img-circle">
         <h3>Import Friends.</h3>
-        <p class="grey">Simply click a few buttons to import your family &amp; friends from Facebook, Twitter, Gmail, Yahoo! &amp; <a href="#">others</a></p>
+        <p class="grey">Simply click a few buttons to import your family &amp; friends from Facebook, Twitter, Gmail, Yahoo!.</p>
       </div> 
       <!-- /span4 -->
       <div class="span4">
