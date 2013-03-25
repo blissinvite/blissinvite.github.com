@@ -109,15 +109,16 @@ header #uiMainNav li a.active .text { color: #dd4814; text-shadow: none; }
 /* Footer
 -----------------------------------------------------------*/
 #footer {
-    /*position: relative;
-    margin-top: -60px;*/
-    margin-top:15px;
-    padding: 10px 10px 0 10px;
-    color: #c9c9c9;
-    font-size: 0.9em;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;  
+  /*position: relative;
+  margin-top: -60px;*/
+  margin-top:15px;
+  padding: 10px 10px 0 10px;
+  color: #c9c9c9;
+  font-size: 0.9em;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border-top: 1px #e1e1e1 solid;
 }
 #footer a { color: #c9c9c9; }
 #footer a:hover { text-decoration: underline; }
