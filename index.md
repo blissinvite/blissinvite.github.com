@@ -3,6 +3,7 @@ layout: homepage
 title: "Home"
 group: top
 weight: 2
+published: false
 ---
 
 {% include JB/setup %}
@@ -11,7 +12,7 @@ weight: 2
   <div class="container">
     <div class="row-fluid">
       <div class="span12 align-center">
-        <h1> STANDOUT</h1>
+        <h1> Standout</h1>
         <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Let's Get Started</a>
         <p id="watch">Watch the introduction <a href="#video">video</a></p>
       </div>
