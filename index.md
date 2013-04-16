@@ -4,13 +4,14 @@ title: "Home"
 group: top
 weight: 2
 ---
+
 {% include JB/setup %}
 
 <div id="intro" class="section">
   <div class="container">
     <div class="row-fluid">
       <div class="span12 align-center">
-        <h1> Invitations Made Easy</h1>
+        <h1> STANDOUT</h1>
         <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Let's Get Started</a>
         <p id="watch">Watch the introduction <a href="#video">video</a></p>
       </div>
