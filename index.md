@@ -24,7 +24,7 @@ published: false
 
 <div id="how-this-works" class="section">
   <div class="container">
-    <h1>We make it extremely easy to mail your wedding invitation </h1>
+    <h1>We make it extremely easy to mail your wedding invitation and manage your RSVP </h1>
     <div class="row-fluid">
       <div class="span4">
         <img src="https://d1ysc6vyfexqcb.cloudfront.net/front/img/how-it-works-list.png" class="img-circle">
