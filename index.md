@@ -13,7 +13,7 @@ published: false
     <div class="row-fluid">
       <div class="span12 align-center">
         <h1> Standout</h1>
-        <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Unique Invites</a>
+        <a class="btn btn-large btn-success" href="http://secure.blissinvite.com/account/register">Find Unique Invites</a>
         <p id="watch">Watch the introduction <a href="#video">video</a></p>
       </div>
     </div>
