@@ -1,8 +1,10 @@
 ---
+published: true
 layout: page
 title: "Geeks & Art"
 description: "It all started while we were idealistically contemplating world-changing ideas on weekends..."
-group: footer 
+group: footer
+
 ---
 
 {% include JB/setup %}
